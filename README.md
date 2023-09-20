@@ -11,7 +11,7 @@ Explore the list of travel destinations displayed on the main screen.
 
 Use the search bar to search for specific travel destinations.
 
-Enter your desired travel location in the text input field and press "Search."
+Enter your desired travel location in the text input field and press"Search."
 ## Contribution:
 I would be glad if you take my code as a basis and improve it, add new functionality, change the design and etc.
 ## Author:
